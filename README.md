@@ -4,7 +4,7 @@
 
 ### Idea
 
-Our team want to make rehabilitating exercises for people with <mark>schizophrenia</mark> more fun by trying to integrate these activities within our games, trying to make them accessible to all through innovative control systems
+Our team want to make rehabilitating exercises for people with <mark>multiple sclerosis</mark> more fun by trying to integrate these activities within our games, trying to make them accessible to all through innovative control systems
 
 ### Team
 
