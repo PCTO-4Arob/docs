@@ -4,7 +4,8 @@
 
 ### Idea
 
-Our team want to make rehabilitating exercises for people with <mark>multiple sclerosis</mark> more fun by trying to integrate these activities within our games, trying to make them accessible to all through innovative control systems
+Our team want to make rehabilitating exercises for people with <mark>multiple sclerosis</mark> more fun by trying to integrate these activities within our games, trying to make them accessible to all through innovative control systems.
+the [src](https://github.com/PCTO-OneTwoCode/src/wiki) repository contains an in-depth wiki about our game and its structure.
 
 ### Team
 
