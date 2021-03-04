@@ -20,7 +20,7 @@ Team manager, Developer, DevOps
 
 ##### Cristian Fenoglio
 
-Graphic designer, Developer
+Graphic designer, Developer, gay pride supporter :rainbow_flag:
 
 [GitHub](https://github.com/CristianFenoglio) :policeman:
 
