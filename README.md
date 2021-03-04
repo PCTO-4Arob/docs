@@ -36,6 +36,6 @@ Like Fenoglio but better :wink:
 
 ##### Alberto Alpigiano
 
-Developer
+Developer like Ferrando but better
 
 [GitHub](https://github.com/AlbyAa03) :man_farmer:
