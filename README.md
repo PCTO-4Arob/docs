@@ -12,7 +12,7 @@ Our team want to make rehabilitating exercises for people with <mark>multiple sc
 
 ##### Filippo Ferrando
 
-Team manager, Developer, DevOps like Tomatis, Fenoglio and Alpigiano but worse
+Team manager, Developer, DevOps
 
 [GitHub](https://github.com/filippo-ferrando) :man_mechanic:
 
@@ -36,6 +36,6 @@ Like Fenoglio but better :wink:
 
 ##### Alberto Alpigiano
 
-Developer like Ferrando but better
+Developer
 
 [GitHub](https://github.com/AlbyAa03) :man_farmer:
