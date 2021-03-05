@@ -31,6 +31,7 @@ Graphic designer, Developer
 ##### Andrea Tomatis
 
 Like Fenoglio but better :wink:
+(Just kidding, UI Developer)
 
 [GitHub](https://github.com/Andrea-Tomatis) :man_firefighter:
 
