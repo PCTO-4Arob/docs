@@ -1,10 +1,12 @@
-# <img title="" src="https://cdn.discordapp.com/attachments/816631707817869323/816632585970122752/LogoPNG.png" alt="" data-align="center" width="286">
+<img title="" src="https://cdn.discordapp.com/attachments/816631707817869323/816632585970122752/LogoPNG.png" alt="" data-align="center" width="286">
 
 # One Two Code :unicorn:
 
-### Idea
+## Idea
 
-Our team want to make rehabilitating exercises for people with <mark>schizophrenia</mark> more fun by trying to integrate these activities within our games, trying to make them accessible to all through innovative control systems
+Our team want to make rehabilitating exercises for people with <mark>multiple sclerosis</mark> more fun by trying to integrate these activities within our games, trying to make them accessible to all through innovative control systems.
+
+The [src](https://github.com/PCTO-OneTwoCode/src/wiki) repository contains an in-depth wiki about our game and its structure.
 
 ### Team
 
@@ -12,7 +14,7 @@ Our team want to make rehabilitating exercises for people with <mark>schizophren
 
 ##### Filippo Ferrando
 
-Team manager, Developer, DevOps
+Team manager, Developer, Github manteiner
 
 [GitHub](https://github.com/filippo-ferrando) :man_mechanic:
 
@@ -22,13 +24,14 @@ Team manager, Developer, DevOps
 
 Graphic designer, Developer
 
-[GitHub](https://github.com/CristianFenoglio) :policeman:
+[GitHub](https://github.com/CristianFenoglio) :rainbow_flag:
 
 <img src="https://avatars.githubusercontent.com/u/58698567?s=400&u=a9539a6d1266e0ae156a93b42e6e04c911e09fc1&v=4" title="" alt="" width="195">
 
 ##### Andrea Tomatis
 
 Like Fenoglio but better :wink:
+(Just kidding, UI Developer)
 
 [GitHub](https://github.com/Andrea-Tomatis) :man_firefighter:
 
@@ -36,6 +39,6 @@ Like Fenoglio but better :wink:
 
 ##### Alberto Alpigiano
 
-Developer
+Developer, Sound Designer
 
 [GitHub](https://github.com/AlbyAa03) :man_farmer:
