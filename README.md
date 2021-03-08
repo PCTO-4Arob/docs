@@ -9,12 +9,6 @@
 * [Team](https://github.com/PCTO-OneTwoCode/about-us/blob/main/README.md)
 * [Idea](https://github.com/PCTO-OneTwoCode/about-us/blob/main/Idea.md)
 
-## Idea
-
-Our team want to make rehabilitating exercises for people with <mark>multiple sclerosis</mark> more fun by trying to integrate these activities within our games, trying to make them accessible to all through innovative control systems.
-
-The [src](https://github.com/PCTO-OneTwoCode/src/wiki) repository contains an in-depth wiki about our game and its structure.
-
 ### Team
 
 <img src="https://avatars.githubusercontent.com/u/55100628?s=400&u=207d3db106c04fea7bcae256f3cf7162f192415e&v=4" title="" alt="" width="181"> 
