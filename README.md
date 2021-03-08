@@ -14,7 +14,7 @@ The [src](https://github.com/PCTO-OneTwoCode/src/wiki) repository contains an in
 
 ##### Filippo Ferrando
 
-Team manager, Developer, DevOps
+Team manager, Developer, Github manteiner
 
 [GitHub](https://github.com/filippo-ferrando) :man_mechanic:
 
@@ -39,6 +39,6 @@ Like Fenoglio but better :wink:
 
 ##### Alberto Alpigiano
 
-Developer
+Developer, Sound Designer
 
 [GitHub](https://github.com/AlbyAa03) :man_farmer:
