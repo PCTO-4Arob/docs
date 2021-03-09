@@ -14,3 +14,5 @@ During this project we had to find, test and learn new libraries and technologie
 We have all deepened our knowledge of **Python** and **Git**, besides that we have learned to use different libraries useful for development.
 
 In addition to the notions of programming, we also had to learn how to manage a **graphic project** to create customized backgrounds and sprites according to our needs. 
+
+We have also learn to respect deadline and to write code readable by others.
