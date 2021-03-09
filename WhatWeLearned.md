@@ -8,3 +8,7 @@
 * [Idea](https://github.com/PCTO-OneTwoCode/about-us/blob/main/Idea.md)
 
 # Things we learned
+
+During this project we had to find, test and learn new libraries and technologies.
+We have all deepened our knowledge of Python and Git, besides that we have learned to use different libraries useful for development.
+In addition to the notions of programming, we also had to learn how to manage a graphic project to create customized backgrounds and sprites according to our needs. 
