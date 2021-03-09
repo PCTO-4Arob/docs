@@ -15,4 +15,4 @@ We have all deepened our knowledge of **Python** and **Git**, besides that we ha
 
 In addition to the notions of programming, we also had to learn how to manage a **graphic project** to create customized backgrounds and sprites according to our needs. 
 
-We have also learn to respect deadline and to write code readable by others.
+We have also learn to respect deadline and to write scalable code readable by others.
