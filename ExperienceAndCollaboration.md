@@ -8,3 +8,7 @@
 * [Idea](https://github.com/PCTO-OneTwoCode/about-us/blob/main/Idea.md)
 
 # Internship experience and IIT collaboration
+During this experience we have gained new knowledge in the IT and personal fields.
+
+We were able to create a great team to work with, each of us committed and completed their tasks to the fullest of his abilities.    
+We all tried to collaborate with each other so that the work was as orderly and cohesive as possible, so we always worked closely with each other. 
