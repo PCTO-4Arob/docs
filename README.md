@@ -15,7 +15,7 @@
 
 ##### Filippo Ferrando
 
-Team manager, Developer, Github manteiner
+Team manager, Developer, Github mainteiner
 
 [GitHub](https://github.com/filippo-ferrando) :man_mechanic:
 
