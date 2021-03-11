@@ -8,3 +8,19 @@
 * [Idea](https://github.com/PCTO-OneTwoCode/about-us/blob/main/Idea.md)
 
 # FAQ Section
+
+### Where i can download the game?
+
+[Here](https://github.com/PCTO-OneTwoCode/src) you can find the download button.
+
+### How do i install the game?
+
+All the instruction (both Linux and Windows) can be found [here](https://github.com/PCTO-OneTwoCode/src/wiki) in the installation page.
+
+### Do i need a constant internet connection? 
+
+Yes, the main menu use Google Cloud for the speech recognition, so without an internet connection it wouldn't work.
+
+### Can I resize the game window? 
+
+Yes, you can modify the `WINDOW_WIDTH=` and the `WINDOW_HEIGHT=` variable in the config.py file
