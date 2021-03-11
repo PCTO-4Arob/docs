@@ -9,10 +9,10 @@
 
 
 # Idea
-Our team want to make rehabilitating exercises for people with <mark>multiple sclerosis</mark> more fun by trying to integrate these activities within our games, trying to make them accessible to all through innovative control systems.
+Our team wants to make rehabilitating exercises for people with <mark>multiple sclerosis</mark> more fun by trying to integrate these activities within our game, trying to make it accessible to everybody through innovative control systems.
 
-#### A complete description of our project can be found in the [src wiki](https://github.com/PCTO-OneTwoCode/src/wiki)
+### A complete description of our project can be found in the [src wiki](https://github.com/PCTO-OneTwoCode/src/wiki)
 
-### Possible application
+## Possible application
 Our game focuses on enhancing dual-task skills, so it should be suitable for making the rehabilitation experience more fun and light.
 We think this game is also suitable for those who need to do arm rehabilitation or to enhance hand-eye coordination.
