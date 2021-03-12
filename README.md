@@ -3,7 +3,6 @@
 # One Two Code :unicorn:
 
 ### Respository structure:
-* [FAQ](https://github.com/PCTO-OneTwoCode/about-us/blob/main/FAQ.md)
 * [What we have learned](https://github.com/PCTO-OneTwoCode/about-us/blob/main/WhatWeLearned.md)
 * [Experience and team collaboration](https://github.com/PCTO-OneTwoCode/about-us/blob/main/ExperienceAndCollaboration.md)
 * [Team](https://github.com/PCTO-OneTwoCode/about-us/blob/main/README.md)
